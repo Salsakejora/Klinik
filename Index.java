@@ -15,11 +15,6 @@ import java.awt.HeadlessException;
 import java.sql.Connection;
 import java.sql.SQLException;
 
-
-/**
- *
- * @author IT DEPT
- */
 public class Index extends javax.swing.JFrame {
     public String tgl_lahir;
     

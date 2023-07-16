@@ -9,10 +9,8 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 import javax.swing.JOptionPane;
-/**
- *
- * @author IT DEPT
- */
+
+
 public class Koneksi {
     private static Connection mysqlkonek;
     public static Connection koneksiDB() throws SQLException {
